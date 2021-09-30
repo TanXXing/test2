@@ -2,3 +2,7 @@
 index.css
 
 #忽略test目录下所有的文件
+/test
+
+#忽略任何目录下名为build的文件夹
+build/
